@@ -104,7 +104,7 @@ importers:
         version: 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/typeorm':
         specifier: ^12.0.2
         version: 12.0.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(typeorm@1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2))
@@ -177,7 +177,7 @@ importers:
         version: 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/typeorm':
         specifier: ^12.0.2
         version: 12.0.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(typeorm@1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2))
@@ -354,7 +354,7 @@ importers:
         version: 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/typeorm':
         specifier: ^12.0.2
         version: 12.0.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(typeorm@1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2))
@@ -427,13 +427,13 @@ importers:
         version: 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/workflows':
         specifier: ~0.0.1
-        version: 0.0.1(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/cqrs@12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2))(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.0.1(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/cqrs@12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2))(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       drizzle-orm:
         specifier: ^0.45.4
-        version: 0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2)
+        version: 0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2)
       pg:
         specifier: ^8.23.1
         version: 8.23.1
@@ -506,7 +506,7 @@ importers:
         version: 12.1.2(@grpc/grpc-js@1.14.5)(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(amqp-connection-manager@5.0.0(amqplib@2.2.0))(amqplib@2.2.0)(ioredis@5.11.1)(kafkajs@2.2.4)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/platform-express':
         specifier: ^12.1.2
         version: 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)
@@ -591,7 +591,7 @@ importers:
         version: 12.1.2(@grpc/grpc-js@1.14.5)(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(amqp-connection-manager@5.0.0(amqplib@2.2.0))(amqplib@2.2.0)(ioredis@5.11.1)(kafkajs@2.2.4)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/typeorm':
         specifier: ^12.0.2
         version: 12.0.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(typeorm@1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2))
@@ -667,7 +667,7 @@ importers:
         version: 12.1.2(@grpc/grpc-js@1.14.5)(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(amqp-connection-manager@5.0.0(amqplib@2.2.0))(amqplib@2.2.0)(ioredis@5.11.1)(kafkajs@2.2.4)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/typeorm':
         specifier: ^12.0.2
         version: 12.0.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(typeorm@1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2))
@@ -752,7 +752,7 @@ importers:
         version: 12.1.2(@grpc/grpc-js@1.14.5)(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(amqp-connection-manager@5.0.0(amqplib@2.2.0))(amqplib@2.2.0)(ioredis@5.11.1)(kafkajs@2.2.4)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/typeorm':
         specifier: ^12.0.2
         version: 12.0.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(typeorm@1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2))
@@ -1014,7 +1014,7 @@ importers:
         version: 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/typeorm':
         specifier: ^12.0.2
         version: 12.0.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(typeorm@1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2))
@@ -1084,7 +1084,7 @@ importers:
         version: 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/typeorm':
         specifier: ^12.0.2
         version: 12.0.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(typeorm@1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2))
@@ -1163,13 +1163,13 @@ importers:
         version: 12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: ~0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/typeorm':
         specifier: ^12.0.2
         version: 12.0.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(typeorm@1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2))
       '@nestjs/workflows':
         specifier: ~0.0.1
-        version: 0.0.1(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/cqrs@12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2))(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.0.1(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/cqrs@12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2))(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       pg:
         specifier: ^8.23.1
         version: 8.23.1
@@ -1326,13 +1326,13 @@ importers:
         version: 12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: 0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/testing':
         specifier: ^12.1.2
         version: 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)
       '@nestjs/workflows':
         specifier: 0.0.1
-        version: 0.0.1(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/cqrs@12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2))(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.0.1(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/cqrs@12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2))(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@testcontainers/postgresql':
         specifier: ^12.2.0
         version: 12.2.0
@@ -1347,13 +1347,13 @@ importers:
         version: 8.23.1
       drizzle-orm:
         specifier: ^0.45.4
-        version: 0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2)
+        version: 0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2)
       pg:
         specifier: ^8.23.1
         version: 8.23.1
       postgres:
-        specifier: ^3.4.9
-        version: 3.4.9
+        specifier: ^4.0.0
+        version: 4.0.0
       reflect-metadata:
         specifier: ^0.2.2
         version: 0.2.2
@@ -1386,7 +1386,7 @@ importers:
         version: 12.1.2(@grpc/grpc-js@1.14.5)(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(amqp-connection-manager@5.0.0(amqplib@2.2.0))(amqplib@2.2.0)(ioredis@5.11.1)(kafkajs@2.2.4)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/outbox':
         specifier: 0.1.0
-        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/testing':
         specifier: ^12.1.2
         version: 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)
@@ -1515,7 +1515,7 @@ importers:
         version: 12.0.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)(typeorm@1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2))
       '@nestjs/workflows':
         specifier: 0.0.1
-        version: 0.0.1(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/cqrs@12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2))(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
+        version: 0.0.1(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/cqrs@12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2))(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@testcontainers/postgresql':
         specifier: ^12.2.0
         version: 12.2.0
@@ -4583,9 +4583,9 @@ packages:
     resolution: {integrity: sha512-9ZhXKM/rw350N1ovuWHbGxnGh/SNJ4cnxHiM0rxE4VN41wsg8P8zWn9hv/buK00RP4WvlOyr/RBDiptyxVbkZQ==}
     engines: {node: '>=0.10.0'}
 
-  postgres@3.4.9:
-    resolution: {integrity: sha512-GD3qdB0x1z9xgFI6cdRD6xu2Sp2WCOEoe3mtnyB5Ee0XrrL5Pe+e4CCnJrRMnL1zYtRDZmQQVbvOttLnKDLnaw==}
-    engines: {node: '>=12'}
+  postgres@4.0.0:
+    resolution: {integrity: sha512-kBh8qXtcvvIAc00DftQyOxz7M/3Zxww1tRMXZPLzipNXXl5PIzHml+9zB3Mrge2U8ldc0WF1ZdLp1iYQi7Kh3A==}
+    engines: {node: '>=20'}
 
   prelude-ls@1.2.1:
     resolution: {integrity: sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==}
@@ -6257,11 +6257,11 @@ snapshots:
       ioredis: 5.11.1
       kafkajs: 2.2.4
 
-  '@nestjs/outbox@0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)':
+  '@nestjs/outbox@0.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)':
     dependencies:
       '@nestjs/common': 12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/core': 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)
-      '@nestjs/store-kit': 0.1.0(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)
+      '@nestjs/store-kit': 0.1.0(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)
       reflect-metadata: 0.2.2
       rxjs: 7.8.2
     transitivePeerDependencies:
@@ -6282,9 +6282,9 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@nestjs/store-kit@0.1.0(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)':
+  '@nestjs/store-kit@0.1.0(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)':
     optionalDependencies:
-      drizzle-orm: 0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2)
+      drizzle-orm: 0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2)
       pg: 8.23.1
 
   '@nestjs/testing@12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)':
@@ -6304,11 +6304,11 @@ snapshots:
       rxjs: 7.8.2
       typeorm: 1.1.0(ioredis@5.11.1)(pg@8.23.1)(sql.js@1.14.2)
 
-  '@nestjs/workflows@0.0.1(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/cqrs@12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2))(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)':
+  '@nestjs/workflows@0.0.1(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(@nestjs/cqrs@12.1.0(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/core@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2))(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)(reflect-metadata@0.2.2)(rxjs@7.8.2)':
     dependencies:
       '@nestjs/common': 12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2)
       '@nestjs/core': 12.1.2(@nestjs/common@12.1.2(reflect-metadata@0.2.2)(rxjs@7.8.2))(@nestjs/microservices@12.1.2)(@nestjs/platform-express@12.1.2)(reflect-metadata@0.2.2)(rxjs@7.8.2)
-      '@nestjs/store-kit': 0.1.0(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2))(pg@8.23.1)
+      '@nestjs/store-kit': 0.1.0(drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2))(pg@8.23.1)
       reflect-metadata: 0.2.2
       rxjs: 7.8.2
     optionalDependencies:
@@ -7314,13 +7314,13 @@ snapshots:
 
   dotenv@18.0.3: {}
 
-  drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@3.4.9)(sql.js@1.14.2):
+  drizzle-orm@0.45.4(@electric-sql/pglite@0.5.8)(@types/pg@8.23.1)(@types/sql.js@1.4.11)(pg@8.23.1)(postgres@4.0.0)(sql.js@1.14.2):
     optionalDependencies:
       '@electric-sql/pglite': 0.5.8
       '@types/pg': 8.23.1
       '@types/sql.js': 1.4.11
       pg: 8.23.1
-      postgres: 3.4.9
+      postgres: 4.0.0
       sql.js: 1.14.2
 
   dunder-proto@1.0.1:
@@ -8620,7 +8620,7 @@ snapshots:
     dependencies:
       xtend: 4.0.2
 
-  postgres@3.4.9: {}
+  postgres@4.0.0: {}
 
   prelude-ls@1.2.1: {}
 
